@@ -1,7 +1,6 @@
 # toolset
 
 ## Terminal
-Bash / ZSH
 
 ### Preferences
 ```shell
