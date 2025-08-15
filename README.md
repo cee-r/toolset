@@ -9,7 +9,7 @@ export CLICOLOR=1
 export LSCOLORS=ExFxBxDxCxegedabagacad
 ```
 
-- ZSH prompt generator https://robotmoon.com/zsh-prompt-generator/
+- [ZSH prompt generator](https://robotmoon.com/zsh-prompt-generator/)
 
 ### Aliases
 ```shell
@@ -81,8 +81,6 @@ syntax enable
 - omyzsh
 
 ## Linux
-
-Terminal
 - desktop-file-utils
 
 ## ENV & Managers
@@ -95,9 +93,9 @@ Terminal
 - sass
 
 ## Applications
-- phpstorm
-- vscode
-- docker
+- PHP Storm
+- Visual Studio Code
+- Docker Desktop
 
 ## Themes
-- dracula
+- [Dracula](https://draculatheme.com/)
