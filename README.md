@@ -4,9 +4,12 @@
 
 Preferences
 ```shell
-
+export PS1="%{%F{165}%}%n%{%F{171}%}@%{%F{213}%}%m %{%F{219}%}%1~ %{%f%}$ "
+export CLICOLOR=1
+export LSCOLORS=ExFxBxDxCxegedabagacad
 ```
 
+- ZSH prompt generator https://robotmoon.com/zsh-prompt-generator/
 
 ```shell
 
@@ -30,6 +33,14 @@ alias <alias>='eval "$(ssh-agent -s)"; ssh-add <path_to_key>'
 
 Tools
 ```shell
+# Vim
+# .vimrc
+set tabstop=2 softtabstop=2 shiftwidth=2
+set expandtab
+set number ruler
+set autoindent smartindent
+syntax enable
+
 # WSL / Linux
 
 desktop-file-utils
