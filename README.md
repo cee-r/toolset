@@ -63,7 +63,6 @@ alias <alias>='eval "$(ssh-agent -s)"; ssh-add <path_to_key>'
 
 ### Vim
 ```shell
-# Vim
 # .vimrc / Settings
 set tabstop=2 softtabstop=2 shiftwidth=2
 set expandtab
