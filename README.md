@@ -34,7 +34,7 @@ alias <alias>='eval "$(ssh-agent -s)"; ssh-add <path_to_key>'
 Tools
 ```shell
 # Vim
-# .vimrc
+# .vimrc / Settings
 set tabstop=2 softtabstop=2 shiftwidth=2
 set expandtab
 set number ruler
