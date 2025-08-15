@@ -40,10 +40,6 @@ set expandtab
 set number ruler
 set autoindent smartindent
 syntax enable
-
-# WSL / Linux
-
-desktop-file-utils
 ```
 
 ## Mac
@@ -56,6 +52,9 @@ desktop-file-utils
 - omyzsh
 
 ## Linux
+
+Terminal
+- desktop-file-utils
 
 ## ENV & Managers
 - PHP / composer
