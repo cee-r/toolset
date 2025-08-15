@@ -72,9 +72,9 @@ syntax enable
 ```
 
 ## Mac
-- homebrew
+- [Homebrew](https://brew.sh/)
 - xcode
-- simulator
+- Simulator
   
 ## Windows
 - WSL
