@@ -32,7 +32,7 @@ alias <alias>='eval "$(ssh-agent -s)"; ssh-add <path_to_key>'
 ```
 
 ### Functions
-```
+```shell
 # Generic set git user
 git-user() {
 
