@@ -86,7 +86,8 @@ syntax enable
 ## ENV & Managers
 - PHP / composer
 - Node / npm
-- Pythong / pip
+- Python / pip
+- DDEV
 
 ## Misc
 - git
@@ -96,6 +97,8 @@ syntax enable
 - PHP Storm
 - Visual Studio Code
 - Docker Desktop
+- hyper
 
 ## Themes
 - [Dracula](https://draculatheme.com/)
+- verminal
