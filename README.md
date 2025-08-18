@@ -1,5 +1,7 @@
 # toolset
 
+remembering shit because new/updating machines nakes me wanna kermit
+
 ## Terminal
 
 ### Preferences
